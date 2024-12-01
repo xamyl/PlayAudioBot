@@ -2,7 +2,7 @@
 
 First, run 
 
-    git clone https://github.com/xamyl/playaudiobot/playaudiobot.git
+    git clone https://github.com/xamyl/playaudiobot.git
     cd playaudiobot
 
 then, Replace audio.mp3 with your own mp3. Or if you want to listen to hampsterdance then don't i guess
